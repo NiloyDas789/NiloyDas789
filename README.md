@@ -9,7 +9,7 @@
 
 ## I'm a Student, Developer and Learner!!
 
-- 🌱 I’m currently learning Node Js 🤣
+- 🌱 I’m currently learning Node Js 
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2022 Goals: Learn more about React
 - ⚡ Fun fact: I love to watch movies
