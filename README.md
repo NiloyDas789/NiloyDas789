@@ -9,9 +9,9 @@
 
 ## I'm a Student, Developer and Learner!!
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Learn more about web3
+- 🌱 I’m currently learning Node Js 🤣
+- 👯 I’m looking to collaborate with other developers
+- 🥅 2022 Goals: Learn more about React
 - ⚡ Fun fact: I love to watch movies
 
 ### Connect with me:
